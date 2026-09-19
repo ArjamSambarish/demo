@@ -1,3 +1,5 @@
 # demo
 This is my first git repository.
-Author - Arjam Sambarish 
+Author - Arjam Sambarish Sahu
+College - KIIT University
+Age - 19
